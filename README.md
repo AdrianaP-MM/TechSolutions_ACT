@@ -1,7 +1,7 @@
 # TechSolutions_ACT
 Primera Actividad de clase Desarrollo de Software, Docente: Wilfredo, Tema: TechSolutions
 
-__--Integrantes:--__
+__Integrantes:__
 
 Mejía Méndez, Adriana Paola --- __20190015__
 
