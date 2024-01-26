@@ -3,4 +3,5 @@ Primera Actividad de clase Desarrollo de Software, Docente: Wilfredo, Tema: Tech
 
 Integrantes: 
 Mejía Méndez, Adriana Paola --- 20190015
-Martínez Ramírez, Mealnie Jackelin
+Martínez Ramírez, Mealnie Jackelin --- 20190148
+
